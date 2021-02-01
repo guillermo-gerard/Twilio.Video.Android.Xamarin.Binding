@@ -1,0 +1,6 @@
+﻿<enum-field-mappings>
+  <mapping jni-class="com/twilio/video/VideoPixelFormat" clr-enum-type="Com.Twilio.Video.PixelFormat">
+    <field jni-name="NV21" clr-name="Nv21" value="0" />
+    <field jni-name="RGBA_8888" clr-name="Rgba8888" value="1" />
+  </mapping>
+</enum-field-mappings>

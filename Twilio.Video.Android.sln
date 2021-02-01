@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Twilio.Video.Android", "Twilio.Video.Android.csproj", "{72204651-F86D-4E85-9EB3-92E5DB4D1C0D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72204651-F86D-4E85-9EB3-92E5DB4D1C0D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72204651-F86D-4E85-9EB3-92E5DB4D1C0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72204651-F86D-4E85-9EB3-92E5DB4D1C0D}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{72204651-F86D-4E85-9EB3-92E5DB4D1C0D}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5918173B-841B-43E1-B6E7-779B1A1AB0B3}
+	EndGlobalSection
+EndGlobal
